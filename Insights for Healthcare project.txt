@@ -1,0 +1,51 @@
+Insights on Outliers:
+1. There is only one outlier where KPI2 = 1.03. It is the same record for which the KPI1 value is the outlier, which is in the month of March 2020.
+2. There is no outlier for KPI3
+
+Insights on correlation between the 3 KPIs:
+KPI1 (Bed Occupancy Rate) and KPI2 (Fall Rate per 1,000 Patient Days) – 0.70:
+Strong positive correlation. As the bed occupancy rate increases, the unassisted fall rate tends to increase as well.
+Interpretation: Higher bed occupancy (more patients in the hospital) might lead to increased pressure on hospital staff, 
+which could result in a higher fall rate. This suggests a possible need for more efficient staffing or patient monitoring 
+as occupancy increases.
+KPI1 (Bed Occupancy Rate) and KPI3 (Staff Responsiveness Score) – -0.37:
+Moderate negative correlation. As bed occupancy increases, staff responsiveness tends to decrease slightly.
+Interpretation: Higher occupancy may cause more strain on hospital staff, potentially affecting their ability to be as 
+responsive to patient needs. This could point to a need for better resource management or training in high-demand situations.
+KPI2 (Fall Rate per 1,000 Patient Days) and KPI3 (Staff Responsiveness Score) – -0.79:
+Strong negative correlation. As staff responsiveness improves (higher score), the fall rate tends to decrease.
+Interpretation: Better staff responsiveness is strongly linked to fewer falls, which makes sense—responsive staff are likely 
+to be more proactive in ensuring patient safety and preventing falls.
+
+Summary of Key Relationships:
+Higher bed occupancy is associated with higher fall rates and slightly lower staff responsiveness. Hospitals may need to ensure that higher occupancy does not overwhelm staff, potentially compromising patient safety and carBetter staff responsiveness is strongly associated with fewer falls, indicating that when staff are more responsive, patient safety improves, and falls are reduced.
+
+Final Insights:
+1. Average Licensed Bed Occupancy Rate (KPI1)
+Your hospital: 96.22%
+U.S. benchmark: ~66%
+Inference:
+Your hospital has a significantly higher occupancy rate than the national average.
+This could indicate strong patient demand, efficient utilization of beds, or potential capacity issues.
+A consistently high occupancy rate above 85% might lead to overcrowding, strain on staff, and reduced patient satisfaction.
+
+2. Unassisted Fall Rate per 1,000 Patient Days (KPI2)
+Your hospital: 2.61 falls per 1,000 patient days
+Benchmark: 2.3 – 13 falls per 1,000 patient days
+Inference:
+Your hospital's fall rate is on the lower end of the national range, which is a positive sign.
+It suggests good patient safety measures and fall prevention protocols.
+However, continuous monitoring is essential to prevent increases, especially with high bed occupancy.
+
+3. Staff Responsiveness Domain Top Box Score (KPI3)
+Your hospital: 63.09%
+Benchmark: 85% – 90%
+Inference:
+Your staff responsiveness score is below industry standards, which may indicate delays in addressing patient needs.
+The high bed occupancy rate (KPI1) could be a contributing factor, as staff might be overwhelmed.
+Improving staffing levels, response times, and communication could help boost this metric.
+
+Final Assessment
+High Bed Occupancy (KPI1) and Low Staff Responsiveness (KPI3) suggest potential operational strain.
+Despite high occupancy, fall prevention efforts (KPI2) appear effective.
+Improving staff responsiveness may enhance patient satisfaction and overall hospital efficiency.
